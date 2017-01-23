@@ -7,6 +7,7 @@ categorie: log
 
 从网上找来了markdown语法的繁体版教程，因为简体版是从繁体翻过来的，加之个人对繁体字的钟爱，所以还是找来的繁体版学习一下。
 以下内容均为原封不动copy自git上的[syntax.md]。
+
 [syntax.md]:https://github.com/othree/markdown-syntax-zhtw/edit/master/syntax.md
 
 ==================
