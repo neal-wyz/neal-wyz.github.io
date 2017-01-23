@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "markdown语法（繁体版教程）"
-date:   2016-1-23 09:50:00 +0800
+date:   2016-1-23 09:13:00 +0800
 categorie: log
 ---
 
