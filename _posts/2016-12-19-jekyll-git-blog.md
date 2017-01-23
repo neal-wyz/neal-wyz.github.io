@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Github page + jekyll = free blog!"
-date:   2016-12-19 +0800
+date:   2016-12-19 15:40:00 +0800
 categorie: tech
 ---
 
