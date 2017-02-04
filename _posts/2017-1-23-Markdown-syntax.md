@@ -2,7 +2,7 @@
 layout: post
 title:  "markdown语法（繁体版教程）"
 date:   2016-1-23 09:13:00 +0800
-categorie: log
+categorie: tech
 ---
 
 从网上找来了markdown语法的繁体版教程，因为简体版是从繁体翻过来的，加之个人对繁体字的钟爱，所以还是找来的繁体版学习一下。
