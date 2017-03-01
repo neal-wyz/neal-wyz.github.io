@@ -17,16 +17,22 @@ categorie: jquery
 
 1.给页面class为btn的button元素添加点击事件。
 
-`$('.btn').on('click', function(){...});`
+```javascript
+$('.btn').on('click', function(){...});
+```
 
 2.使用append方法给table中的tbody添加一个class为btn的元素。
 
-`$("tbody").append('<tr><td><button class="btn">取消</button></td></tr>');`
+```html
+$("tbody").append('<tr><td><button class="btn">取消</button></td></tr>');
+```
 
 这时候会发现，1中的on()方法无法监听到页面ready之后append进入button。
 
 然后正确的方法是：
 
-`$('#simple-table').on('click', '.btn', function(){...});`
+```javascript
+$('#simple-table').on('click', '.btn', function(){...});
+```
 
 PS：simple-table是table的id，这时候处于该table中的所有class包含btn的元素都能被添加上click事件
