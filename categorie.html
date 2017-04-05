@@ -8,20 +8,13 @@ permalink: /categorie/
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <!-- ±êÇ©ÔÆ -->
+            <!-- ???? -->
 			<div id='categorie_cloud' class="categories">
 				{% for categorie in site.categories %}
 				<a href="#{{ categorie[0] }}" title="{{ categorie[0] }}" rel="{{ categorie[1].size }}">{{ categorie[0] }}</a>
 				{% endfor %}
 			</div>
             
-            <blockquote class="categorie-comments">
-                ±êÇ©ÃüÃû¹æÔò£º
-                    <li>Ò»ÆªÎÄÕÂÏà¹ØµÄÁìÓò¶¼½«´òÉÏ±êÇ©</li>
-                    <li>Ã¿¸ö±ãÇ©ÏÂº¬ÓĞËùÓĞ°üº¬´Ë±êÇ©µÄÎÄÕÂ</li>
-            </blockquote>
-            
-            <!-- ±êÇ©ÁĞ±í -->
 			{% for categorie in site.categories %}
 			<div class="one-categorie-list">
 			  	<span class="fa fa-categorie listing-seperator" id="{{ categorie[0] }}">{{ categorie[0] }}</span>
@@ -46,4 +39,4 @@ permalink: /categorie/
 		</div>
 	</div>
 </div>
-<!-- author by Ğ¡ÅÖĞù -->
+<!-- author by å°èƒ–è½© -->
