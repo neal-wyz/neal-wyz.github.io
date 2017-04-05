@@ -12,7 +12,7 @@ tags: weChat
 
  
 
-2. 小程序使用场景：点击“call”按钮，点击联系客服，进入小程序客服消息列表，点击对应小程序，进入对话![img]({{site.img}}/wxprocs/a5.jpg)![img]({{site.img}}/wxprocs/a6.jpg)![img]({{site.img}}/images/wxprocs/a7.jpg)
+2. 小程序使用场景：点击“call”按钮，点击联系客服，进入小程序客服消息列表，点击对应小程序，进入对话![img]({{site.img}}/wxprocs/a5.jpg)![img]({{site.img}}/wxprocs/a6.jpg)![img]({{site.img}}/wxprocs/a7.jpg)
 
  ---
 
