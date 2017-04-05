@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categorie
-permalink: /categorie/
+title: Tags
+permalink: /tags/
 ---
 
 <!-- Main Content -->
@@ -10,15 +10,15 @@ permalink: /categorie/
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
 			<div id='tag_cloud' class="tags">
-				{% for categorie in site.categories %}
-				<a href="#{{ categorie[0] }}" title="{{ categorie[0] }}" rel="{{ categorie[1].size }}">{{ categorie[0] }}</a>
+				{% for tag in site.tags %}
+				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 				{% endfor %}
 			</div>
             
-			{% for categorie in site.categories %}
+			{% for tag in site.tags %}
 			<div class="one-tag-list">
-			  	<span class="fa fa-tag listing-seperator" id="{{ categorie[0] }}">{{ categorie[0] }}</span>
-				{% for post in categorie[1] %}
+			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</span>
+				{% for post in tag[1] %}
 				 <div class="post-preview">
 				    <a href="{{ post.url | prepend: site.baseurl }}">
 				        <h2 class="post-title">            {{ post.title }}
