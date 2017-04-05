@@ -2,7 +2,8 @@
 layout: post
 title:  "jquery使用on动态给元素添加事件"
 date:   2017-2-28
-categorie: jquery
+tags: 
+	- jquery
 ---
 
 这两天在做项目时使用jquery遇到的一个坑：

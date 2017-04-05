@@ -2,7 +2,8 @@
 layout: post
 title: "Apache Shiro 介绍"
 date: 2017-3-13
-categorie: shiro
+tags: 
+	- shiro
 
 ---
 

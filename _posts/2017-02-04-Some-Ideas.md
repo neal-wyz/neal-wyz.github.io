@@ -2,7 +2,8 @@
 layout: post
 title:  "一些想法"
 date:   2017-2-4
-categorie: log
+tags: 
+	- log
 ---
 
 总算是抽出一些时间整理了一下blog，向着自己喜欢的极简风又进了一步，还是缺少一些浪漫色彩。
