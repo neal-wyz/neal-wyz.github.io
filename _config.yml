@@ -30,7 +30,8 @@ exclude:
   - Gemfile.lock
 
 # Where things are
-source:       .
+source:      .
 layouts:  ./_layouts
 posts: ./_posts
 img: ./images
+css: ./css
