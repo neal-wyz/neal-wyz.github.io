@@ -2,8 +2,7 @@
 layout: post
 title: "websocket+spring 实践"
 date: 2017-3-26
-tags: 
-    - websocket
+tags: websocket
 ---
 
 文章思路：
