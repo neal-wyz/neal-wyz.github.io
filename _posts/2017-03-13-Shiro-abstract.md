@@ -21,7 +21,7 @@ Shiro 目的是在所有的应用环境中起作用，从简单的命令行应�
 
 ### Shiro是一个综合的应用安全框架：
 
-![ShiroFeatures](http://wangyz.win/images/shiro/ShiroFeatures.png) 
+![ShiroFeatures]({{site.img}}/shiro/ShiroFeatures.png) 
 
 Shiro 的目标就是 Shiro 团队提出的 “ 应用安全的四个基础 ” ：验证（authentication），授权（authorization），session管理（session management），加密（cryptography）
 * 验证（authentication）：通常表现为登录动作，证明一个用户是否是他自己

@@ -1,0 +1,49 @@
+---
+layout: page
+title: Categorie
+permalink: /categorie/
+---
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <!-- 标签云 -->
+			<div id='categorie_cloud' class="categories">
+				{% for categorie in site.categories %}
+				<a href="#{{ categorie[0] }}" title="{{ categorie[0] }}" rel="{{ categorie[1].size }}">{{ categorie[0] }}</a>
+				{% endfor %}
+			</div>
+            
+            <blockquote class="categorie-comments">
+                标签命名规则：
+                    <li>一篇文章相关的领域都将打上标签</li>
+                    <li>每个便签下含有所有包含此标签的文章</li>
+            </blockquote>
+            
+            <!-- 标签列表 -->
+			{% for categorie in site.categories %}
+			<div class="one-categorie-list">
+			  	<span class="fa fa-categorie listing-seperator" id="{{ categorie[0] }}">{{ categorie[0] }}</span>
+				{% for post in categorie[1] %}
+				 <div class="post-preview">
+				    <a href="{{ post.url | prepend: site.baseurl }}">
+				        <h2 class="post-title">            {{ post.title }}
+				        </h2>
+				        {% if post.subtitle %}
+				        <h3 class="post-subtitle">
+				            {{ post.subtitle }}
+				        </h3>
+				        {% endif %}
+				    </a>
+				    <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p>
+				</div>
+				<hr>
+				{% endfor %}
+			</div>
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+<!-- author by 小胖轩 -->

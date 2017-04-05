@@ -29,8 +29,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-#duoshuo评论配置
-comments :
-  provider : duoshuo
-  duoshuo : 
-  short_name : Neal
+# Where things are
+source:       .
+layouts:  ./_layouts
+posts: ./_posts
+img: ./images
