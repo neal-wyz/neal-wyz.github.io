@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "markdown语法（繁体版教程）"
-date:   2017-1-23
+date:   2017-01-23
 tags: markdown
 
 ---

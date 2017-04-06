@@ -2,8 +2,8 @@
 
 layout: post
 title:  "手机号码验证正则及最新号段"
-date:   2017-2-29
-tags: regular expression
+date:   2017-03-03
+tags: regular-expression
 
 ---
 

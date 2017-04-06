@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "微信小程序toast在跳转页面时duration无效"
-date:   2017-2-29
+date:   2017-02-29
 tags: weChat
 
 ---

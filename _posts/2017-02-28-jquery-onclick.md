@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "jquery使用on动态给元素添加事件"
-date:   2017-2-28
+date:   2017-02-28
 tags: jquery
 
 ---

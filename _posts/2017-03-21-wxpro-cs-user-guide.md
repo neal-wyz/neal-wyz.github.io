@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "微信公众平台客服功能使用指南"
-date: 2017-3-21
+date: 2017-03-21
 tags: weChat
 
 ---

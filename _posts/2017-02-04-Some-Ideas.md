@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "一些想法"
-date:   2017-2-4
+date:   2017-02-04
 tags: log
 
 ---
