@@ -7,7 +7,8 @@ tags: java
 ---
 
 先把源文档放出来: [Sun-Java-Coding-Standards]({{site.pdf}}/sunJavaStandard.pdf)
-表示个人翻译水平非常业余，请大神们多多指正
+
+水平有限，仅供参考，欢迎交流~~
 
 ---
 
