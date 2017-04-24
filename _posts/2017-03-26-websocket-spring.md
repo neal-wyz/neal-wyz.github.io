@@ -131,8 +131,8 @@ public class WebSocket {
     /**
      * 关闭连接
      */
-    @OnOpen
-    public void onOpen(Session session, CloseReason reason) {
+    @OnClose
+    public void onClose(Session session, CloseReason reason) {
         try{
             synchronized (allSessions) {
                 allSessions.remove(session.getId());
