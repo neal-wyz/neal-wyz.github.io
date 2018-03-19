@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "websocket+spring 实践"
-date: 2017-03-26
-tags: websocket
+layout:     post
+title:      "websocket+spring 实践"
+subtitle:   ""
+date:       2017-03-26
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - websocket
 ---
 
 文章思路：

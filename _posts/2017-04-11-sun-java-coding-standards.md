@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "sun公司java编码准则"
-date: 2017-04-11
-tags: java
-
+layout:     post
+title:      "sun公司java编码准则"
+subtitle:   ""
+date:       2017-04-11
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - java
 ---
 
 先把源文档放出来: [Sun-Java-Coding-Standards]({{site.pdf}}/sunJavaStandard.pdf)

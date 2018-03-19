@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "jquery使用on动态给元素添加事件"
-date:   2017-02-28
-tags: jquery
-
+layout:     post
+title:      "jquery使用on动态给元素添加事件"
+subtitle:   ""
+date:       2017-02-28
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - jquery
 ---
 
 这两天在做项目时使用jquery遇到的一个坑：

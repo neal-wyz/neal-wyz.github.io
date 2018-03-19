@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "markdown语法（繁体版教程）"
-date:   2017-01-23
-tags: markdown
-
+layout:     post
+title:      "markdown语法（繁体版教程）"
+subtitle:   ""
+date:       2017-01-23
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - markdown
 ---
 
 从网上找来了markdown语法的繁体版教程，因为简体版是从繁体翻过来的，加之个人对繁体字的钟爱，所以还是找来的繁体版学习一下。

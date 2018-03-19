@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "阿里云cdn部署及https配置"
-date: 2017-05-03
-tags: aliyun
-
+layout:     post
+title:      "阿里云cdn部署及https配置"
+subtitle:   ""
+date:       2017-05-03
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - aliyun
 ---
 
 过了一个月才开始写这篇算是记录的东西，记起来的时候阿里云cdn部署界面已经改版了，所以此篇无截图，只是大致描述一下思路以及部署的具体流程。

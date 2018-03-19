@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "微信小程序toast在跳转页面时duration无效"
-date:   2017-02-29
-tags: weChat
-
+layout:     post
+title:      "微信小程序toast在跳转页面时duration无效"
+subtitle:   ""
+date:       2017-02-29
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - weChat
 ---
 
 直接上代码：

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "maven依赖机制"
-date: 2017-04-11
-tags: maven
-
+layout:     post
+title:      "maven依赖机制"
+subtitle:   ""
+date:       2017-04-11
+author:     ""
+header-img: "img/home-bg-o.jpg"
+tags: 
+    - maven
 ---
 
 # 依赖机制介绍
