@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "python爬取游迅网【真·无码】你不得不收藏的精品壁纸大合集！系列"
+title:      "python爬取游迅网壁纸合集系列"
 subtitle:   ""
 date:       2018-03-23
 author:     "Neal Wang"
