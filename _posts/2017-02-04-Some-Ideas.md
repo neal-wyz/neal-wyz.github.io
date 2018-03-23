@@ -3,7 +3,7 @@ layout:     post
 title:      "一些想法"
 subtitle:   "（准备写成一个增量型的个人日记，方便记录）"
 date:       2017-02-04
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - log

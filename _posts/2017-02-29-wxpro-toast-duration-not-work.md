@@ -3,7 +3,7 @@ layout:     post
 title:      "微信小程序toast在跳转页面时duration无效"
 subtitle:   ""
 date:       2017-02-29
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - weChat

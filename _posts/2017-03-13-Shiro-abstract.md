@@ -3,7 +3,7 @@ layout:     post
 title:      "Apache Shiro 介绍"
 subtitle:   ""
 date:       2017-03-13
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - shiro

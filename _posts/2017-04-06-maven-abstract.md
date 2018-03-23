@@ -3,7 +3,7 @@ layout:     post
 title:      "Maven 概述"
 subtitle:   ""
 date:       2017-04-06
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - maven

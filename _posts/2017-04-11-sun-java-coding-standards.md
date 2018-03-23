@@ -3,7 +3,7 @@ layout:     post
 title:      "sun公司java编码准则"
 subtitle:   ""
 date:       2017-04-11
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - java

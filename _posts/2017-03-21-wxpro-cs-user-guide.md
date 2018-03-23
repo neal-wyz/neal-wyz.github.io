@@ -3,7 +3,7 @@ layout:     post
 title:      "微信公众平台客服功能使用指南"
 subtitle:   ""
 date:       2017-03-21
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - weChat

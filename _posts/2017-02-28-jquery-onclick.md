@@ -3,7 +3,7 @@ layout:     post
 title:      "jquery使用on动态给元素添加事件"
 subtitle:   ""
 date:       2017-02-28
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - jquery

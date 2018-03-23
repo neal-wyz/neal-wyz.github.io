@@ -3,7 +3,7 @@ layout:     post
 title:      "maven依赖机制"
 subtitle:   ""
 date:       2017-04-11
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - maven

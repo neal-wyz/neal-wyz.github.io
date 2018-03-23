@@ -3,7 +3,7 @@ layout:     post
 title:      "手机号码验证正则及最新号段"
 subtitle:   ""
 date:       2017-03-03
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - regular-expression

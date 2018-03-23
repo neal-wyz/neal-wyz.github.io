@@ -3,7 +3,7 @@ layout:     post
 title:      "markdown语法（繁体版教程）"
 subtitle:   ""
 date:       2017-01-23
-author:     ""
+author:     "Neal Wang"
 header-img: "img/home-bg-o.jpg"
 tags: 
     - markdown
