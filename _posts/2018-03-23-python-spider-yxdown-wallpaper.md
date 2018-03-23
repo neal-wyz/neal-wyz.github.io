@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "python爬取游迅网壁纸合集系列"
+title:      "python爬取网站图片"
 subtitle:   ""
 date:       2018-03-23
 author:     "Neal Wang"
@@ -10,9 +10,9 @@ tags:
     - spider
 ---
 
-# 游迅网【真·无码】你不得不收藏的精品壁纸大合集！系列：
+> 数据源：游迅网【真·无码】你不得不收藏的精品壁纸大合集！系列：
 
-### 作为强迫症，一定要从第一期开始抓，人工测试到previd=100000时找到了第二期，所以打算写个脚本自动搜寻到第一期。
+#### 作为强迫症，一定要从第一期开始抓，人工测试到previd=100000时找到了第二期，所以打算写个脚本自动搜寻到第一期。
 
 1.起始地址：http://dy.www.yxdown.com/news/indexmore.json?callback=viewMoreCallback&key=bagua&previd=100000
 
@@ -88,7 +88,7 @@ while flag:
 
 最终找到第一期的ArticleID：95237
 
-### 接下来就是获取所有壁纸系列的文章图片信息并存储到文件中
+#### 接下来就是获取所有壁纸系列的文章图片信息并存储到文件中
 
 ```
 # -*- coding:utf-8 -*-
